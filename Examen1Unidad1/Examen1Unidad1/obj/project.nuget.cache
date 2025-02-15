@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "zIFqvcFtPEo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\laure\\projects\\Unidad1\\Examen1PrimeraUnidad\\Examen1Unidad1\\Examen1Unidad1\\Examen1Unidad1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\laure\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "C:\\Users\\laure\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\laure\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\9.0.1\\microsoft.netcore.app.runtime.linux-x64.9.0.1.nupkg.sha512",
+    "C:\\Users\\laure\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\9.0.1\\microsoft.netcore.app.host.linux-x64.9.0.1.nupkg.sha512",
+    "C:\\Users\\laure\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\9.0.1\\microsoft.aspnetcore.app.runtime.linux-x64.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

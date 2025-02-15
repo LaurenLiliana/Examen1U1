@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen1U1\\Examen1Unidad1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2768D019-F214-4196-80BF-C72B59FC770B}|Examen1Unidad1\\Examen1Unidad1.csproj|c:\\users\\laure\\onedrive\\documentos\\examen1u1\\examen1unidad1\\examen1unidad1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2768D019-F214-4196-80BF-C72B59FC770B}|Examen1Unidad1\\Examen1Unidad1.csproj|solutionrelative:examen1unidad1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2768D019-F214-4196-80BF-C72B59FC770B}|Examen1Unidad1\\Examen1Unidad1.csproj|c:\\users\\laure\\onedrive\\documentos\\examen1u1\\examen1unidad1\\examen1unidad1\\controllers\\logiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2768D019-F214-4196-80BF-C72B59FC770B}|Examen1Unidad1\\Examen1Unidad1.csproj|solutionrelative:examen1unidad1\\controllers\\logiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2768D019-F214-4196-80BF-C72B59FC770B}|Examen1Unidad1\\Examen1Unidad1.csproj|c:\\users\\laure\\onedrive\\documentos\\examen1u1\\examen1unidad1\\examen1unidad1\\entities\\vowelentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2768D019-F214-4196-80BF-C72B59FC770B}|Examen1Unidad1\\Examen1Unidad1.csproj|solutionrelative:examen1unidad1\\entities\\vowelentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2768D019-F214-4196-80BF-C72B59FC770B}|Examen1Unidad1\\Examen1Unidad1.csproj|c:\\users\\laure\\onedrive\\documentos\\examen1u1\\examen1unidad1\\examen1unidad1\\entities\\primeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2768D019-F214-4196-80BF-C72B59FC770B}|Examen1Unidad1\\Examen1Unidad1.csproj|solutionrelative:examen1unidad1\\entities\\primeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2768D019-F214-4196-80BF-C72B59FC770B}|Examen1Unidad1\\Examen1Unidad1.csproj|c:\\users\\laure\\onedrive\\documentos\\examen1u1\\examen1unidad1\\examen1unidad1\\entities\\palindromeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2768D019-F214-4196-80BF-C72B59FC770B}|Examen1Unidad1\\Examen1Unidad1.csproj|solutionrelative:examen1unidad1\\entities\\palindromeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2768D019-F214-4196-80BF-C72B59FC770B}|Examen1Unidad1\\Examen1Unidad1.csproj|c:\\users\\laure\\onedrive\\documentos\\examen1u1\\examen1unidad1\\examen1unidad1\\entities\\fibonaccientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2768D019-F214-4196-80BF-C72B59FC770B}|Examen1Unidad1\\Examen1Unidad1.csproj|solutionrelative:examen1unidad1\\entities\\fibonaccientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2768D019-F214-4196-80BF-C72B59FC770B}|Examen1Unidad1\\Examen1Unidad1.csproj|c:\\users\\laure\\onedrive\\documentos\\examen1u1\\examen1unidad1\\examen1unidad1\\entities\\factorialentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2768D019-F214-4196-80BF-C72B59FC770B}|Examen1Unidad1\\Examen1Unidad1.csproj|solutionrelative:examen1unidad1\\entities\\factorialentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen1U1\\Examen1Unidad1\\Examen1Unidad1\\Program.cs",
+              "RelativeDocumentMoniker": "Examen1Unidad1\\Program.cs",
+              "ToolTip": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen1U1\\Examen1Unidad1\\Examen1Unidad1\\Program.cs",
+              "RelativeToolTip": "Examen1Unidad1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T02:38:51.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PalindromeEntity.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen1U1\\Examen1Unidad1\\Examen1Unidad1\\Entities\\PalindromeEntity.cs",
+              "RelativeDocumentMoniker": "Examen1Unidad1\\Entities\\PalindromeEntity.cs",
+              "ToolTip": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen1U1\\Examen1Unidad1\\Examen1Unidad1\\Entities\\PalindromeEntity.cs",
+              "RelativeToolTip": "Examen1Unidad1\\Entities\\PalindromeEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T02:36:17.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FibonacciEntity.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen1U1\\Examen1Unidad1\\Examen1Unidad1\\Entities\\FibonacciEntity.cs",
+              "RelativeDocumentMoniker": "Examen1Unidad1\\Entities\\FibonacciEntity.cs",
+              "ToolTip": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen1U1\\Examen1Unidad1\\Examen1Unidad1\\Entities\\FibonacciEntity.cs",
+              "RelativeToolTip": "Examen1Unidad1\\Entities\\FibonacciEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T02:35:16.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FactorialEntity.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen1U1\\Examen1Unidad1\\Examen1Unidad1\\Entities\\FactorialEntity.cs",
+              "RelativeDocumentMoniker": "Examen1Unidad1\\Entities\\FactorialEntity.cs",
+              "ToolTip": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen1U1\\Examen1Unidad1\\Examen1Unidad1\\Entities\\FactorialEntity.cs",
+              "RelativeToolTip": "Examen1Unidad1\\Entities\\FactorialEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T02:34:54.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrimeEntity.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen1U1\\Examen1Unidad1\\Examen1Unidad1\\Entities\\PrimeEntity.cs",
+              "RelativeDocumentMoniker": "Examen1Unidad1\\Entities\\PrimeEntity.cs",
+              "ToolTip": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen1U1\\Examen1Unidad1\\Examen1Unidad1\\Entities\\PrimeEntity.cs",
+              "RelativeToolTip": "Examen1Unidad1\\Entities\\PrimeEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T02:34:35.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VowelEntity.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen1U1\\Examen1Unidad1\\Examen1Unidad1\\Entities\\VowelEntity.cs",
+              "RelativeDocumentMoniker": "Examen1Unidad1\\Entities\\VowelEntity.cs",
+              "ToolTip": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen1U1\\Examen1Unidad1\\Examen1Unidad1\\Entities\\VowelEntity.cs",
+              "RelativeToolTip": "Examen1Unidad1\\Entities\\VowelEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T02:34:21.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogicController.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen1U1\\Examen1Unidad1\\Examen1Unidad1\\Controllers\\LogicController.cs",
+              "RelativeDocumentMoniker": "Examen1Unidad1\\Controllers\\LogicController.cs",
+              "ToolTip": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen1U1\\Examen1Unidad1\\Examen1Unidad1\\Controllers\\LogicController.cs",
+              "RelativeToolTip": "Examen1Unidad1\\Controllers\\LogicController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T02:33:36.452Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
